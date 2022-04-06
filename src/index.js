@@ -5,6 +5,7 @@ import Header from "./Header";
 import Form from "./Form";
 import CurrentWeather from "./Current-Weather";
 import Forecast from "./Forecast";
+import Built from "./Built-By";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
@@ -13,6 +14,7 @@ ReactDOM.render(
     <Form />
     <CurrentWeather />
     <Forecast />
+    <Built />
   </StrictMode>,
   rootElement
 );
