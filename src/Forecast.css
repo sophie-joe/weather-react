@@ -1,0 +1,13 @@
+.Forecast {
+  text-align: center;
+  color: #ffff;
+  margin: 0;
+  background-color: rgba(150, 95, 6, 0.8);
+  background-size: 50%;
+  border-radius: 10px;
+}
+.btn-group-toggle {
+  width: 50%;
+  margin: 0px 300px;
+  text-align: center;
+}
